@@ -35,3 +35,6 @@ Karanlık Mod (Dark Mode) desteği.
 Geçmiş tasarımların kaydedildiği galeri sistemi.
 
 Teknolojiler: Swift, SwiftUI, MVVM, Core Graphics, PhotosUI.
+
+
+https://github.com/user-attachments/assets/7ed0c06a-8192-4e72-91c0-99a0ceb48be4
